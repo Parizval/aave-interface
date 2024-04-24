@@ -107,9 +107,9 @@ export enum CustomMarket {
   // v2
   proto_mainnet = 'proto_mainnet',
   proto_avalanche = 'proto_avalanche',
-  proto_fuji = 'proto_fuji',
+  // proto_fuji = 'proto_fuji',
   proto_polygon = 'proto_polygon',
-  proto_mumbai = 'proto_mumbai',
+  // proto_mumbai = 'proto_mumbai',
   amm_mainnet = 'amm_mainnet',
   // external
   // permissioned_market = 'permissioned_market',
