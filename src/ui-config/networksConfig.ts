@@ -56,7 +56,7 @@ const ratesHistoryApiUrl = `${process.env.NEXT_PUBLIC_API_BASEURL}/data/rates-hi
 export const networkConfigs: Record<string, BaseNetworkConfig> = {
   [ChainId.sepolia]: {
     name: 'Ethereum Sepolia',
-    privateJsonRPCUrl: 'https://eth-sepolia.g.alchemy.com/v2/VAfNJrTN-TopQjFDwcdLeeDOLDiFQcBP',
+    privateJsonRPCUrl: 'https://arb-sepolia.g.alchemy.com/v2/qe2A4hJf0PbyDB9WmvK5pHPxYzhshxE1',
     publicJsonRPCUrl: [
       'https://eth-sepolia.public.blastapi.io',
       'https://rpc.sepolia.org',
